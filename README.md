@@ -1,5 +1,7 @@
 ## _react-native_ demo
 
+[![Circle CI](https://circleci.com/gh/damienstanton/movies.svg?style=shield)](https://circleci.com/gh/damienstanton/movies)
+
 This repository contains the completed source code for [the official React Native tutorial](https://facebook.github.io/react-native/docs/tutorial.html).
 
 It's a toy movie-listing app that doesn't do anything other than fetch the top movies from Rotten Tomatoes.
